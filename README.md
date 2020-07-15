@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Robin Singh👋
 
-<!--
-**rob729/rob729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A Passionate Android Developer
 
-Here are some ideas to get you started:
+## About Me 🤷🏻‍♂️
+* 📱 Android Developer Intern @ Doubtnut
+* 📝 Open Source Contributor
+* Finalist Winner of Codeheat 2019/20
+* Final Year Undergrad Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&color=blue&logoColor=white&link=https://twitter.com/rob729/)](https://twitter.com/rob729/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&color=blue&logoColor=white&link=https://www.linkedin.com/in/rob729/)](https://www.linkedin.com/in/rob729/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=rob729&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
