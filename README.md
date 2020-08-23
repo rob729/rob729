@@ -4,8 +4,8 @@
 
 ## About Me 🤷🏻‍♂️
 * 📱 Ex-Android Developer Intern @ Doubtnut
-* 📝 Open Source Contributor
 * :trophy: Finalist Winner of Codeheat 2019/20
+* 📝 Open Source Contributor
 * :student: Final Year Undergrad Student
 
 ### Get in touch
