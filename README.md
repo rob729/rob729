@@ -3,8 +3,8 @@
 ## A Passionate Android Developer
 
 ## About Me 🤷🏻‍♂️
-* 📱 Android Engineering Intern @ Cityflo
-* 📱 Ex-Android Engineering Intern @ Doubtnut
+* 📱 Software Engineer @ Grofers
+* 📱 Ex-Android Engineering Intern @ Doubtnut & Cityflo
 * :trophy: Finalist Winner of Codeheat 2019/20
 * 📝 Open Source Contributor
 * :student: Final Year Undergrad Student
