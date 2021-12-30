@@ -5,7 +5,7 @@
 ## About Me 🤷🏻‍♂️
 * 📱 Software Engineer @ Blinkit (formerly Grofers)
 * 📱 Ex-Android Engineering Intern @ Doubtnut & Cityflo
-* :trophy: Finalist Winner of Codeheat 2019/20
+* 📱 Google Certified Android Developer
 * 📝 Open Source Contributor
 
 ### Get in touch
