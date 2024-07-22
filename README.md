@@ -3,7 +3,7 @@
 ## A Passionate Android Developer
 
 ## About Me 🤷🏻‍♂️
-* 📱 Software Engineer @ Blinkit (formerly Grofers)
+* 📱 Software Engineer @ Blinkit
 * 📱 Ex-Android Engineering Intern @ Doubtnut & Cityflo
 * 📱 Google Certified Android Developer
 * 📝 Open Source Contributor
